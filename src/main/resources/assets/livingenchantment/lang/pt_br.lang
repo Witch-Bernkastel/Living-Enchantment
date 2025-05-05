@@ -1,0 +1,36 @@
+#Enchantment
+enchantment.living=Vivente
+#Enchantment Descriptions description
+enchantment.livingenchantment.enchantment.living.desc=Dá vida ao item encantado, permitindo que ele fique mais forte com o uso!
+#Commands
+commands.livingenchantment.mainhand_item_not_living=Para usar este comando, você precisa segurar um item com o encantamento Vivente na mão principal.
+commands.livingenchantment.invalid_xp_number=A experiência deve ser um número negativo. Pode ser um número decimal.
+commands.additemxp.usage=/additemxp <quantidade>
+commands.additemxp.success=Adicionado %f de experiência ao item "%s".
+commands.setitemxp.usage=/setitemxp <quantidade>
+commands.setitemxp.success=Definido a experiência de "%s" para %s.
+commands.setitemlevel.usage=/setitemlevel <nível>
+commands.setitemlevel.invalid_level_number=Use um número inteiro ≥ 0 e menor que %s (nível máximo).
+commands.setitemlevel.success=Nível de "%s" atualizado para %s.
+commands.resetitem.usage=/resetitem
+commands.resetitem.success="%s" foi completamente resetado.
+commands.setpersonality.usage=/setpersonality <personalidade>
+commands.setpersonality.not_in_range="%s" não é uma personalidade válida. Use um número entre 0 e 1 ou o nome da personalidade.
+commands.setpersonality.success=Personalidade de "%s" alterada para "%s".
+commands.setpersonality.listpersonalities=Lista de personalidades disponíveis: %s
+#Other text
+tooltip.things_killed=%s Alvos eliminados
+tooltip.blocks_pickaxed=%s Blocos minerados
+tooltip.blocks_axed=%s Blocos cortados
+tooltip.blocks_shoveled=%s Blocos cavados
+tooltip.blocks_hoed=%s Blocos arados
+tooltip.blocks_tooled=%s Vezes usado
+tooltip.hits_taken=%s Golpes recebidos
+tooltip.personality=Personalidade: %s
+tooltip.currently_worn=Efeito:
+tooltip.damage_reduction=%s Redução de dano
+#Attack Damage as it appears in your minecraft language
+tooltip.attack_damage=Danos por golpe
+tooltip.lvl=Nível: %s
+tooltip.exp=XP: %s
+text.new_update_notification=Uma nova atualização está disponível para %s
